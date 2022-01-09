@@ -1,5 +1,4 @@
 package Java13;
-
 class RadiusIsNegative extends Exception
 {
 }

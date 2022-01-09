@@ -3,7 +3,7 @@ import java.io.*;
 class Exception520 extends Exception
 {
 }
-public class hw13_13
+public class Class13
 {
    public static void main(String args[]) throws IOException
    {

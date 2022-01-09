@@ -22,8 +22,7 @@ class CCircle
       System.out.println("area="+3.14*radius*radius);
    }
 }
-
-public class hw13_10
+public class Class10
 {
    public static void main(String args[])
    {
